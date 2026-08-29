@@ -18,7 +18,7 @@ var palettes = [
   { name: "Mono", active: ["#FFFFFF", "#94A3B8", "#475569"], inactive: "#273244" }
 ]
 
-var rounds = [0, 2, 4, 8, 12, 16, 24]
+var rounds = [0, 4, 8, 12, 16, 20, 24]
 var borderSizes = [0, 1, 2, 3, 4, 5, 6]
 var windowGaps = [0, 2, 4, 8, 16, 24, 32]
 var cycleSpeeds = [
